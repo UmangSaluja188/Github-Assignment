@@ -1,2 +1,2 @@
-# Github-Assignment
+I am editing the README file. Adding some more details about the project description.# Github-Assignment
 Intro to Git And Github
